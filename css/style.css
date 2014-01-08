@@ -69,7 +69,7 @@ html{
 	display: block;	
 }
 .social li {
-	overflow: auto;
+	overflow: hidden;
 	float:left;
 }
 .social li a{
